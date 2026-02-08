@@ -1,0 +1,13 @@
+name: dart_encrypt_decrypt_hybrid
+description: Hybrid encryption console app using AES-256 + RSA-2048
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  pointycastle: ^3.7.4
+  dotenv: ^4.2.0
+  basic_utils: ^5.7.0
+
+dev_dependencies:
+  lints: ^5.0.0
