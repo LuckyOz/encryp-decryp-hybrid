@@ -1,0 +1,23 @@
+{
+  "name": "node-encrypt-decrypt-hybrid",
+  "version": "1.0.0",
+  "description": "Hybrid Encryption - AES 256 + RSA 2048 Node.js Console Application",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "encryption",
+    "aes",
+    "rsa",
+    "hybrid",
+    "cryptography"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "readline": "^1.3.0"
+  }
+}
